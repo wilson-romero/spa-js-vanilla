@@ -7,7 +7,6 @@ import { getHash, resolveRoutes } from '../utils';
 const routes = {
   '/': Home,
   '/:id': Character,
-  '/about': Error404,
 };
 
 export default async function router() {

@@ -4,7 +4,7 @@ export default function Header() {
         <div class="Header-logo">
             <h1>
                 <a href="">
-                    100tifi.co
+                    100tifico
                 </a>
             </h1>
         </div>
